@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC_CS_Lab 10 - Movie List!", "GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!.csproj", "{BAB68A45-7183-4412-AB1F-DE3356EFB4B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB68A45-7183-4412-AB1F-DE3356EFB4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB68A45-7183-4412-AB1F-DE3356EFB4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB68A45-7183-4412-AB1F-DE3356EFB4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB68A45-7183-4412-AB1F-DE3356EFB4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F94A85FA-F7E9-4CF2-9959-D5995C9AC479}
+	EndGlobalSection
+EndGlobal

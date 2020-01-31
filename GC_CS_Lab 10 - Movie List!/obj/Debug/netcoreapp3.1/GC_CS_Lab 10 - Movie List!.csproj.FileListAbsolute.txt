@@ -1,0 +1,11 @@
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\bin\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.exe
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\bin\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.deps.json
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\bin\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.runtimeconfig.json
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\bin\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.runtimeconfig.dev.json
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\bin\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.dll
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\bin\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.pdb
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\obj\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.csprojAssemblyReference.cache
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\obj\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.AssemblyInfoInputs.cache
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\obj\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.AssemblyInfo.cs
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\obj\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.dll
+C:\Users\coronele\source\repos\GC_CS_Lab 10 - Movie List!\GC_CS_Lab 10 - Movie List!\obj\Debug\netcoreapp3.1\GC_CS_Lab 10 - Movie List!.pdb
